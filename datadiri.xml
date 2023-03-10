@@ -1,19 +1,48 @@
 <?xml version="1.0"?>
 <curiculumVitae>
-    <profil>
-        <nama>Ihsan Setiyadi</nama>
-        <tempatTglLahir>pardasuka, 01 januari 2000</tempatTglLahir>
-        <jenisKelamin>laki-Laki</jenisKelamin>
-        <agama>Islam</agama>
-        <alamat>pardasuka, Katibung Lampung Selatan</alamat>
-        <email>ikhsansetiyadi12@gmail.com</email>
-    </profil>
+    <dataDiri>
+        <profil>
+            <nama>Ihsan Setiyadi</nama>
+            <nim>2110024</nim>
+            <lahir>
+                <tempatLahir>pardasuka</tempatLahir>
+                <tanggalLahir>01</tanggalLahir>
+                <bulanLahir>januari</bulanLahir>
+                <tahunLahir>2000</tahunLahir>
+            </lahir>
+            <jenisKelamin>laki-Laki</jenisKelamin>
+            <agama>Islam</agama>
+            <alamat>pardasuka, Katibung Lampung Selatan</alamat>
+            <email>ikhsansetiyadi12@gmail.com</email>
+            <noTelepon>081209876543</noTelepon>
+        </profil>
+        <pendidikan>
+            <sd>SDN 2 Pardasuka</sd>
+            <smp>SMPN 1 Katibung</smp>
+            <sma>SMK Yaditama Sidomulyo</sma>
+            <perguruanTinggi>STMIK Antar Bangsa</perguruanTinggi>
+        </pendidikan>
+    </dataDiri>
     <dataOrtu>
         <dataAyah>
             <namaAyah>Ayahku</namaAyah>
-            <tanggalLahirAyah>pardasuka, 01 januari 1960</tanggalLahirAyah>
+            <lahirAyah>
+                <tempatLahirAyah>pardasuka</tempatLahirAyah>
+                <tanggalLahirAyah>01</tanggalLahirAyah>
+                <bulanLahirAyah>januari</bulanLahirAyah>
+                <tahunLahirAyah>1960</tahunLahirAyah>
+            </lahirAyah>
+            <pekerjaanAyah>Buruh Harian Lepas</pekerjaanAyah>
+            <noTelepon>081309876543</noTelepon>
         </dataAyah>
             <namaIbu>Ibuku</namaIbu>
-            <tanggalLahirIbu>pardasuka, 01 januari 1962</tanggalLahirIbu>
+            <lahirIbu>
+                <tempatLahirIbu>pardasuka</tempatLahirIbu>
+                <tanggalLahirIbu>01</tanggalLahirIbu>
+                <bulanLahirIbu>januari</bulanLahirIbu>
+                <tahunLahirIbu>1962</tahunLahirIbu>
+            </lahirIbu>
+            <pekerjaanIbu>Ibu Rumah Tangga</pekerjaanIbu>
+            <noTelepon>081409876543</noTelepon>
     </dataOrtu>
 </curiculumVitae>
