@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<kartuNama>
+    <namaKampus>
+        <awal>STMIK</awal>
+        <akhir>Antar Bangsa</akhir>
+    </namaKampus>
+    <alamat id="1" cabang="tanggerang">
+        <jalan>Jl. HOS Cokroaminoto Ciledug</jalan>
+        <kecamatan>Ciledug</kecamatan>
+        <kota>Kota Tanggerang</kota>
+    </alamat>
+
+    <telp>081234567890</telp>
+    <surel>info@antarbangsa.ac.id</surel>
+    <situsWeb>https://antarbangsa.ac.id</situsWeb>
+</kartuNama>

@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<curiculumVitae>
+    <profil>
+        <nama>Ihsan Setiyadi</nama>
+        <tempatTglLahir>pardasuka, 01 januari 2000</tempatTglLahir>
+        <jenisKelamin>laki-Laki</jenisKelamin>
+        <agama>Islam</agama>
+        <alamat>pardasuka, Katibung Lampung Selatan</alamat>
+        <email>ikhsansetiyadi12@gmail.com</email>
+    </profil>
+    <dataOrtu>
+        <dataAyah>
+            <namaAyah>Ayahku</namaAyah>
+            <tanggalLahirAyah>pardasuka, 01 januari 1960</tanggalLahirAyah>
+        </dataAyah>
+            <namaIbu>Ibuku</namaIbu>
+            <tanggalLahirIbu>pardasuka, 01 januari 1962</tanggalLahirIbu>
+    </dataOrtu>
+</curiculumVitae>
